@@ -33,8 +33,7 @@ The current state of the app allows on-device recording with both the Apple Watc
 ### <a href="https://github.com/airtimeEnthusiast/RCDBScraper" style="color: aqua;">Roller Coaster Database Scraper</a>
 Ride Experience. Python 
 
-The project consists of a Python web scraper that returns a dataframe of roller coaster features from RCDB. The data was used to create a retrospective study on historical trends in coaster layout designs, popular coaster models, and various statistics held by record-holding coasters. 
-#### [R Shiny App](https://wrightapps.shinyapps.io/TidyverseStudy)
+The project consists of a Python web scraper that returns a dataframe of roller coaster features from RCDB. The data was used to create a retrospective study on historical trends in coaster layout designs, popular coaster models, and various statistics held by record-holding coasters. View the project here: [R Shiny App](https://wrightapps.shinyapps.io/TidyverseStudy)
 
 The current state of the project will retrieve a dataframe of coasters located in the United States; however, other features such as a UI and categorical selection will be added in order to improve the flexibility of data retrieval. 
 
