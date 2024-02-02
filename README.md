@@ -1,7 +1,7 @@
 <!-- Header -->
 ### Hi there, I'm Austin Wright 👋
 - 🔭 I’m currently working with [ANDBOUNDS Inc](https://andbounds.com).
-- 🌱 I’m currently learning Tyk, .Net Core, SciKitLearn, Kalman Filtering.
+- 🌱 I’m currently learning Tyk, .Net Core, Scikit-Learn, Kalman Filtering.
 - 🤔 I’m looking for help with Docker, KNative Serverless
 - 🚲 I'm an active mountain biker.
 - 🛹 I'm an avid skateboarder.
