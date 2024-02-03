@@ -40,9 +40,8 @@ The current state of the project will retrieve a dataframe of coasters located i
 <!-- Connect with Me Section -->
 ## 📬 Connect with Me
 - **Email:** [austinwright1@outlook.com](mailto:austinwright1@outlook.com?subject=%20Hi%20there%20Austin)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/austin-wright/)
-- **GitHub:** [Your GitHub Profile](https://github.com/airtimeEnthusiast)
-- **Resume:** [Your Portfolio Website](https://ransomnumber6.github.io/trevor_ransom/resume.html)
+- **LinkedIn:** [austin-wright](https://www.linkedin.com/in/austin-wright/)
+- **GitHub:** [airtimeEnthusiast](https://github.com/airtimeEnthusiast)
 
 
 <!--
