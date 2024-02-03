@@ -1,5 +1,7 @@
 <!-- Header -->
 ### Hi there, I'm Austin Wright 👋
+Welcome to my github profile. I am a highly motivated Software Engineer from Tempe, Arizona, eager to learn new technologies to create engaging, data-driven experiences. Here, you'll find my contributions and projects. 
+
 - 🔭 I’m currently working with [ANDBOUNDS Inc](https://andbounds.com).
 - 🌱 I’m currently learning Tyk, .Net Core, Scikit-Learn, Kalman Filtering.
 - 🤔 I’m looking for help with Docker, KNative Serverless
@@ -7,7 +9,6 @@
 - 🛹 I'm an avid skateboarder.
 - ⚡ Fun fact: I have ridden 200 unique roller coasters across 8 different states. 
 
-Welcome to my github profile. I am a highly motivated Software Engineer from Tempe, Arizona, eager to learn new technologies to create engaging, data-driven experiences. Here, you'll find my contributions and projects. 
 
 <!---Education--->
 ## Education 📚
