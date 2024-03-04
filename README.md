@@ -6,7 +6,7 @@ Welcome to my github profile. I am a highly motivated Software Engineer from Tem
 - 🌱 I’m currently learning Tyk, .Net Core, PyTorch, React-Native, Kalman Filtering.
 - 🚲 An active mountain biker.
 - 🛹 An avid skateboarder.
-- 🎢 Roller Coaster Enthusiast
+- 🎢 Roller Coaster Enthusiast.
 - ⚡ Fun fact: I have ridden 200 unique roller coasters across 8 different states. 
 
 
