@@ -3,9 +3,10 @@
 Welcome to my github profile. I am a highly motivated Software Engineer from Tempe, Arizona, eager to learn new technologies to create engaging, data-driven experiences. Here, you'll find my contributions and projects. 
 
 - 🔭 I’m currently working with [ANDBOUNDS Inc](https://andbounds.com).
-- 🌱 I’m currently learning Tyk, .Net Core, Scikit-Learn, PyTorch, Kalman Filtering.
-- 🚲 I'm an active mountain biker.
-- 🛹 I'm an avid skateboarder.
+- 🌱 I’m currently learning Tyk, .Net Core, PyTorch, React-Native, Kalman Filtering.
+- 🚲 An active mountain biker.
+- 🛹 An avid skateboarder.
+- 🎢 Roller Coaster Enthusiast
 - ⚡ Fun fact: I have ridden 200 unique roller coasters across 8 different states. 
 
 
