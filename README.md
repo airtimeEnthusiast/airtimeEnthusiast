@@ -1,6 +1,6 @@
 <!-- Header -->
 ### Hi there, I'm Austin Wright 👋
-Welcome to my github profile. I am a highly motivated Software Engineer from Tempe, Arizona, eager to learn new technologies to create engaging, data-driven experiences. Here, you'll find my contributions and projects. 
+Welcome to my github profile. I am a highly motivated individual, eager to learn new technologies to create engaging, data-driven experiences relevant to software engineering principles. Here, you'll find my contributions and projects.
 
 - 🔭 I’m currently working with [ANDBOUNDS Inc](https://andbounds.com).
 - 🌱 I’m currently learning Tyk, .Net Core, PyTorch, React-Native, Kalman Filtering.
