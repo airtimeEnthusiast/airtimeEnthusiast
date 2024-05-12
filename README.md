@@ -42,6 +42,7 @@ The current state of the project will retrieve a dataframe of coasters located i
 - **Email:** [austinwright1@outlook.com](mailto:austinwright1@outlook.com?subject=%20Hi%20there%20Austin)
 - **LinkedIn:** [austin-wright](https://www.linkedin.com/in/austin-wright/)
 - **GitHub:** [airtimeEnthusiast](https://github.com/airtimeEnthusiast)
+- **Youtube:** [Channel](https://www.youtube.com/channel/UCDvfgnlvZp0b-4JqWbONYkQ)
 
 
 <!--
