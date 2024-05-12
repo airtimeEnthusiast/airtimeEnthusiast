@@ -2,7 +2,7 @@
 ### Hi there, I'm Austin Wright 👋
 Welcome to my github profile. I am a highly motivated individual, eager to learn new technologies to create engaging, data-driven experiences relevant to software engineering principles. Here, you'll find my contributions and projects.
 
-- 🌱 I’m currently learning .Net Core, PyTorch, React-Native, and Kalman Filtering.
+- 🌱 I’m currently learning Docker, PyTorch, React-Native, and Kalman Filtering.
 - 🚲 An active mountain biker.
 - 🛹 An avid skateboarder.
 - 🎢 Roller Coaster Enthusiast.
@@ -17,9 +17,9 @@ Welcome to my github profile. I am a highly motivated individual, eager to learn
 
 <!---Skills--->
 ## 🛠️ Skills
-- **Languages:** Swift, Python, R, C#, C++, C, 
-- **Frameworks & Libraries:** Swift UI, Pandas, 
-- **Tools & Technologies:** Git, GitHub CI/CD, Tyk
+- **Languages:** Swift, Python, PostgresSQL, C#, C++, C 
+- **Libraries:** CoreData, CoreMotion, Pandas, Numpy, TensorFlow, Pytorch, Java Swing, Beautiful Soup
+- **Tools & Technologies:** SwiftUI, Git, GitHub CI/CD
 
 <!---Projects--->
 ## 🚀 Projects
