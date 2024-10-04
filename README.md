@@ -24,14 +24,12 @@ Welcome to my github profile. I am a highly motivated individual, eager to learn
 <!---Projects--->
 ## 🚀 Projects
 ### <a href="https://github.com/airtimeEnthusiast/Ride_Experience" style="color: aqua;">Ride Experience Data Logger</a>
-Ride Experience. Swift UI Project
 
 The goal of this application is to develop a data logger that will give users the ability to collect acceleration, velocity, and GPS location data in order to reconstruct a 3D path of a roller coaster's layout using SLAM algorithms. The app also allows users to view wait times at various popular theme parks using [QueueTimes.com](https://queue-times.com/pages/api) 
 
 The current state of the app allows on-device recording with both the Apple Watch and iPhone, but the SLAM algorithms are still in development and will require extensive test data to train and optimize
 
 ### <a href="https://github.com/airtimeEnthusiast/RCDBScraper" style="color: aqua;">Roller Coaster Database Scraper</a>
-Ride Experience. Python 
 
 The project consists of a Python web scraper that returns a dataframe of roller coaster features from RCDB. The data was used to create a retrospective study on historical trends in coaster layout designs, popular coaster models, and various statistics held by record-holding coasters. View the project here: [R Shiny App](https://wrightapps.shinyapps.io/TidyverseStudy)
 
