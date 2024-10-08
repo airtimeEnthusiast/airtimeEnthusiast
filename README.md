@@ -6,7 +6,7 @@ Welcome to my github profile. I am a highly motivated individual, eager to learn
 - 🚲 An active mountain biker.
 - 🛹 An avid skateboarder.
 - 🎢 Roller Coaster Enthusiast.
-- ⚡ Fun fact: I have ridden (200)[http://www.coastercounter.com/DOORhandle] unique roller coasters across 8 different states. 
+- ⚡ Fun fact: I have ridden [200](http://www.coastercounter.com/DOORhandle) unique roller coasters across 8 different states. 
 
 
 <!---Education--->
